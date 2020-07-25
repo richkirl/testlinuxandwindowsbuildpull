@@ -1,4 +1,4 @@
-Build started at 2020-07-25T21:16:12.785821
+Build started at 2020-07-25T23:18:02.999954
 Main binary: /usr/bin/python3.7
 Build Options: '--cross-file win.ini'
 Python system: Linux
@@ -34,7 +34,7 @@ None of 'LDFLAGS' are defined in the environment, not changing global flags.
 None of 'CPPFLAGS' are defined in the environment, not changing global flags.
 Sanity testing C++ compiler: /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++
 Is cross compiler: True.
-Sanity check compiler command line: /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/sanitycheckcpp.cc -o /home/jimmy/dev/matrixcode/build/meson-private/sanitycheckcpp_cross.exe -pipe -D_FILE_OFFSET_BITS=64 -c
+Sanity check compiler command line: /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/sanitycheckcpp.cc -o /home/jimmy/dev/matrixcode/build/meson-private/sanitycheckcpp_cross.exe -pipe -c
 Sanity check compile stdout:
 
 -----
@@ -70,8 +70,8 @@ Called `/home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-pkg-config Qt5Core --li
 -L/home/jimmy/setup/mxe/usr/x86_64-w64-mingw32/qt5/lib -lQt5Core -lmpr -luserenv -lversion -lz -lpcre2-16 -lzstd -lnetapi32 -lws2_32 -ladvapi32 -lkernel32 -lole32 -lshell32 -luuid -luser32 -lwinmm
 None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpcpar8_jj
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpcpar8_jj/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpcpar8_jj/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpmvinz0b3
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpmvinz0b3/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpmvinz0b3/output.obj -pipe -c -O0 -fpermissive 
 
 Code:
  #include <stdio.h>
@@ -85,8 +85,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmp5wve78l9
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmp5wve78l9/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmp5wve78l9/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpg_v5dprr
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpg_v5dprr/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpg_v5dprr/output.obj -pipe -c -O0 -fpermissive 
 
 Code:
  #include <stdio.h>
@@ -97,8 +97,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpnp5wkdu8
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpnp5wkdu8/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpnp5wkdu8/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpszyt795r
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpszyt795r/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpszyt795r/output.obj -pipe -c -O0 -fpermissive 
 
 Code:
  #include <stdio.h>
@@ -109,8 +109,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpk56lqf9u
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpk56lqf9u/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpk56lqf9u/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpzg0beg_9
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpzg0beg_9/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpzg0beg_9/output.obj -pipe -c -O0 -fpermissive 
 
 Code:
  #include <stdio.h>
@@ -121,8 +121,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpfyhxlwm7
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpfyhxlwm7/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpfyhxlwm7/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpsy_y0cdq
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpsy_y0cdq/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpsy_y0cdq/output.obj -pipe -c -O0 -fpermissive 
 
 Code:
  #include <stdio.h>
@@ -133,8 +133,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmp443737ro
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmp443737ro/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmp443737ro/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpzfq1udpg
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpzfq1udpg/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpzfq1udpg/output.obj -pipe -c -O0 -fpermissive 
 
 Code:
  #include <stdio.h>
@@ -145,8 +145,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpygnggz3m
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpygnggz3m/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpygnggz3m/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpzyzwdn_i
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpzyzwdn_i/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpzyzwdn_i/output.obj -pipe -c -O0 -fpermissive 
 
 Code:
  #include <stdio.h>
@@ -155,14 +155,14 @@ Code:
 Compiler stdout:
  
 Compiler stderr:
- /home/jimmy/dev/matrixcode/build/meson-private/tmpygnggz3m/testfile.cpp: In function 'int main()':
-/home/jimmy/dev/matrixcode/build/meson-private/tmpygnggz3m/testfile.cpp:3:65: error: size of array 'a' is negative
+ /home/jimmy/dev/matrixcode/build/meson-private/tmpzyzwdn_i/testfile.cpp: In function 'int main()':
+/home/jimmy/dev/matrixcode/build/meson-private/tmpzyzwdn_i/testfile.cpp:3:65: error: size of array 'a' is negative
          int main(void) { static int a[1-2*!(sizeof(void *) > 15)]; a[0]=0; return 0; }
                                                                  ^
 
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpwxajw824
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpwxajw824/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpwxajw824/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmp5hes3bbb
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmp5hes3bbb/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmp5hes3bbb/output.obj -pipe -c -O0 -fpermissive 
 
 Code:
  #include <stdio.h>
@@ -173,8 +173,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpd2zfusxs
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpd2zfusxs/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpd2zfusxs/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmphr57jvmm
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmphr57jvmm/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmphr57jvmm/output.obj -pipe -c -O0 -fpermissive 
 
 Code:
  #include <stdio.h>
@@ -185,8 +185,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpn90z_j86
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpn90z_j86/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpn90z_j86/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmps2a7k8dd
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmps2a7k8dd/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmps2a7k8dd/output.obj -pipe -c -O0 -fpermissive 
 
 Code:
  #include <stdio.h>
@@ -197,8 +197,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpbw7v5r_a
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpbw7v5r_a/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpbw7v5r_a/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpxwgj76cd
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpxwgj76cd/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpxwgj76cd/output.obj -pipe -c -O0 -fpermissive --print-search-dirs 
 
 Code:
  
@@ -225,8 +225,8 @@ Called `/home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-pkg-config Qt5Gui --lib
 -lQt5Gui -L/home/jimmy/setup/mxe/usr/x86_64-w64-mingw32/qt5/lib -lQt5Core -ld3d11 -ldxgi -ldxguid /home/jimmy/setup/mxe/usr/x86_64-w64-mingw32/qt5/lib/libQt5Core.a -lharfbuzz -lcairo -lgobject-2.0 -lfontconfig -lfreetype -lm -lusp10 -lmsimg32 -lpixman-1 -lffi -lexpat -lbz2 -lpng16 -lharfbuzz_too -lfreetype_too -lglib-2.0 -lshlwapi -lpcre -lintl -liconv -lgdi32 -lcomdlg32 -loleaut32 -limm32 -lopengl32 -lmpr -luserenv -lversion -lz -lpcre2-16 -lzstd -lnetapi32 -lws2_32 -ladvapi32 -lkernel32 -lole32 -lshell32 -luuid -luser32 -lwinmm
 None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpj96bnnes
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpj96bnnes/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpj96bnnes/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lm -Wl,--end-group -Wl,--allow-shlib-undefined 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmpvbtayin9
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmpvbtayin9/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmpvbtayin9/output.exe -pipe -O0 -fpermissive -Wl,--start-group -lm -Wl,--end-group -Wl,--allow-shlib-undefined 
 
 Code:
  int main(void) { return 0; }
@@ -285,8 +285,8 @@ Called `/home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-pkg-config gl --libs` -
 -lopengl32
 None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
 Running compile:
-Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmp9pznc99k
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmp9pznc99k/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmp9pznc99k/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lopengl32 -Wl,--end-group -Wl,--allow-shlib-undefined 
+Working directory:  /home/jimmy/dev/matrixcode/build/meson-private/tmp6f5_hur8
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /home/jimmy/dev/matrixcode/build/meson-private/tmp6f5_hur8/testfile.cpp -o /home/jimmy/dev/matrixcode/build/meson-private/tmp6f5_hur8/output.exe -pipe -O0 -fpermissive -Wl,--start-group -lopengl32 -Wl,--end-group -Wl,--allow-shlib-undefined 
 
 Code:
  int main(void) { return 0; }
@@ -314,8 +314,8 @@ Build targets in project: 1
 
 Found ninja-1.9.0.git.kitware.dyndep-1.jobserver-1 at /usr/bin/ninja
 Running compile:
-Working directory:  /tmp/tmp28yeux8h
-Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /tmp/tmp28yeux8h/testfile.cpp -o /tmp/tmp28yeux8h/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++17 
+Working directory:  /tmp/tmp08llckbh
+Command line:  /home/jimmy/setup/mxe/usr/bin/x86_64-w64-mingw32-g++ /tmp/tmp08llckbh/testfile.cpp -o /tmp/tmp08llckbh/output.obj -pipe -c -std=c++17 
 
 Code:
  int i = static_cast<int>(0);
