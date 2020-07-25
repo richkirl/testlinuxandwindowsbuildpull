@@ -1,0 +1,20 @@
+[
+  {
+    "directory": "/home/jimmy/dev/matrixcode/bbuild",
+    "command": "c++ -Imatrixcode@exe -I. -I.. -I/usr/include/qt5/QtOpenGL -I/usr/include/qt5 -I/usr/include/qt5/QtCore -I/usr/include/qt5/QtGui -I/usr/include/qt5/QtWidgets -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -fPIC -MD -MQ 'matrixcode@exe/meson-generated_moc_matrixcode.cpp.o' -MF 'matrixcode@exe/meson-generated_moc_matrixcode.cpp.o.d' -o 'matrixcode@exe/meson-generated_moc_matrixcode.cpp.o' -c 'matrixcode@exe/moc_matrixcode.cpp'",
+    "file": "matrixcode@exe/moc_matrixcode.cpp",
+    "output": "matrixcode@exe/meson-generated_moc_matrixcode.cpp.o"
+  },
+  {
+    "directory": "/home/jimmy/dev/matrixcode/bbuild",
+    "command": "c++ -Imatrixcode@exe -I. -I.. -I/usr/include/qt5/QtOpenGL -I/usr/include/qt5 -I/usr/include/qt5/QtCore -I/usr/include/qt5/QtGui -I/usr/include/qt5/QtWidgets -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -fPIC -MD -MQ 'matrixcode@exe/main.cpp.o' -MF 'matrixcode@exe/main.cpp.o.d' -o 'matrixcode@exe/main.cpp.o' -c ../main.cpp",
+    "file": "../main.cpp",
+    "output": "matrixcode@exe/main.cpp.o"
+  },
+  {
+    "directory": "/home/jimmy/dev/matrixcode/bbuild",
+    "command": "c++ -Imatrixcode@exe -I. -I.. -I/usr/include/qt5/QtOpenGL -I/usr/include/qt5 -I/usr/include/qt5/QtCore -I/usr/include/qt5/QtGui -I/usr/include/qt5/QtWidgets -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -fPIC -MD -MQ 'matrixcode@exe/matrixcode.cpp.o' -MF 'matrixcode@exe/matrixcode.cpp.o.d' -o 'matrixcode@exe/matrixcode.cpp.o' -c ../matrixcode.cpp",
+    "file": "../matrixcode.cpp",
+    "output": "matrixcode@exe/matrixcode.cpp.o"
+  }
+]
